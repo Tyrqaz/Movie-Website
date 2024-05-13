@@ -14,4 +14,9 @@
   transition: all 1s ease-in-out;
 }
 
-https://youtu.be/AOlkcLtyXkw?list=PLL5taXRLzd89hR7zTiog7kjYCrHN_n7IE&t=3470
+\js
+classList
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+const ratio = Math.floor(window.innerWidth/270);
+
+https://youtu.be/AOlkcLtyXkw?list=PLL5taXRLzd89hR7zTiog7kjYCrHN_n7IE&t=5090
